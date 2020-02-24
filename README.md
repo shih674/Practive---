@@ -1,8 +1,8 @@
 # Practice--- 圖形版終極密碼 Ultimate Code with Graphic UI
 
-總共劃分為三個主要畫面，分別是歡迎頁面、遊戲頁面、遊戲結束。
-※注意；img資料夾和bgm資料夾要和執行檔放在同一層，否則會出現讀取錯誤!!!
-
+總共劃分為三個主要畫面，分別是歡迎頁面、遊戲頁面、遊戲結束。<br />
+※注意；img資料夾和bgm資料夾要和執行檔放在同一層，否則會出現讀取錯誤!!!<br />
+<br />
 There are three main frames in this program. WelcomePage, GamePage and Gameset.<br />
 ※Warning! Folder 'img' and 'bgm' must be placed in the same folder with "Ultimate Code.ipynb/Ultimate Code.py", and same level.To avoid loading error!!!
 <br />
